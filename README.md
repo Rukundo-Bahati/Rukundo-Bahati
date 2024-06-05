@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on market job
 - 📫 How to reach me : email me on 'rukundorca@gmail.com'
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...Time Lost is never regained
-                                                         ![me](https://github.com/Rukundo-Bahati/Rukundo-Bahati/assets/150172206/57b3b622-8cc6-4548-9670-8b12c96e3297)
+- ⚡ Fun fact: ...Time Lost is never regained                              ![portfolio-design-min](https://github.com/Rukundo-Bahati/Rukundo-Bahati/assets/150172206/25a46a67-5687-44b6-a9b6-356c168804ca)
 
+                                                         
 
 
 <!---
