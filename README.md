@@ -1,4 +1,4 @@
-<img align="right" src="![GitHub stars](https://img.shields.io/github/stars/Rukundo-Bahati/Rukundo-Bahati?style=social)
+<img align="right" src="![Visitor Count](https://komarev.com/ghpvc/?username=Rukundo-Bahati)
 " />
 
 <h1 align="center">
