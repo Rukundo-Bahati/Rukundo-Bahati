@@ -2,8 +2,7 @@
 " />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%91%8B%20Welcome%20to%20my%20GitHub!%20I'm%20Bahati" />
-
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=%F0%9F%91%8B%20Welcome%20to%20my%20GitHub!%20I'm%20Bahati" />
 </h1>
 
 <h3 align="center">A passionate software developer from Rwanda :rwanda:</h3>
