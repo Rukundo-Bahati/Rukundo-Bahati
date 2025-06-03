@@ -1,79 +1,118 @@
-<img align="right" src="![Visitor Count](https://komarev.com/ghpvc/?username=Rukundo-Bahati)
-" />
+<!-- Banner or animated GIF (optional, but eye-catching) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2D42,100:8D99AE&height=200&section=header&text=Rukundo%20Bahati&fontSize=48&fontColor=fff&animation=fadeIn" alt="banner" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/rukundo-bahati">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rukundorca@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rukundorca@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  </a>
+  <a href="https://yourwebsite.dev">
+    <img src="https://img.shields.io/badge/Portfolio-yourwebsite.dev-FFB400?logo=about-dot-me&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
+
+<!-- Fun animated text -->
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=%F0%9F%91%8B%20Welcome%20to%20my%20GitHub!%20I'm%20Bahati" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=8D99AE&center=true&vCenter=true&width=700&lines=✨+Welcome+to+My+GitHub+Profile!+👋;Full-Stack+Engineer+%7C+Cybersecurity+Enthusiast+%7C+Open+Source+Lover" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Rwanda :rwanda:</h3>
+---
 
-<br/>
+<!-- Intro Section -->
+<p align="center">
+  <b>Hi, I'm Rukundo Bahati</b> — a creative <strong>Software Engineer</strong>, <strong>Full-Stack Developer</strong>, and a lifelong <strong>Cybersecurity Enthusiast</strong>.<br>
+  I thrive at the intersection of code, security, and innovation, building tools that empower and protect.
+</p>
 
-<div align="center">
- 
- :coffee: I’m currently working on **Java**
- 
- :computer: I’m currently learning **MACHINE LEARNING, JAVA,DATA STRUCTURES**
+---
 
-💬 Ask me about **Node.js, React, Nextjs... or anything [here](https://portfolio-bahati-v7e1.vercel.app/)**
+## 🧠 About Me
 
-⚡ Motto: **Building tools to make the world a better place**
+- 🚀 Building real-world web apps with <strong>Node.js</strong>, <strong>React</strong>, and <strong>MongoDB</strong>
+- 🛡️ Exploring <strong>ethical hacking</strong>, <strong>network security</strong> & digital privacy
+- 🤝 Contributor to open-source and self-hosted projects
+- 🛠️ Passionate about solutions that are secure, scalable, and user-focused
+- 🌍 Always open to collaborating on impactful projects
 
-</div>
- 
-<div align="center"> 
+---
+
+## 🛠️ Tech Toolbox
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="4"><b>Frontend</b></td>
+    <td align="center" colspan="2"><b>Backend</b></td>
+    <td align="center" colspan="2"><b>Database</b></td>
+    <td align="center" colspan="2"><b>Security & Tools</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" /></td>
+  </tr>
+  <tr>
+    <td colspan="10" align="center">
+      <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukundo-Bahati&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukundo-Bahati&layout=compact&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 💬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rukundo-bahati">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
   <a href="mailto:rukundorca@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-rukundorca@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/bahati-samuel-293578302" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://yourwebsite.dev">
+    <img src="https://img.shields.io/badge/Portfolio-yourwebsite.dev-FFB400?logo=about-dot-me&logoColor=white&style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://portfolio-bahati-v7e1.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+</p>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,java" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,java,mongodb,c,nextjs,mysql,flask" /><br>
-</div>
+---
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<p align="center">
+  <em>“Code securely. Build purposefully. Learn endlessly.”</em>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rukundo-Bahati/Rukundo-Bahati/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=Rukundo-Bahati&style=flat-square&color=8D99AE" alt="Profile Views"/>
+</p>
 
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rukundo-Bahati&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-<img width=390 src="https://streak-stats.demolab.com/?user=Rukundo-Bahati&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+<!-- Optionally, add a fun extra section -->
 
-  <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com/?user=Rukundo-Bahati&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</div>
-
-<br/>
+<details>
+  <summary>📚 <b>Random Facts & Fun</b> (click to expand!)</summary>
+  <ul>
+    <li>🔒 I love CTFs and security puzzles!</li>
+    <li>🌱 Always learning: currently exploring DevSecOps & cloud security.</li>
+    <li>🎯 Goal: Build open-source tools that make security simple for everyone.</li>
+    <li>🎵 If not coding, you’ll find me playing guitar or hiking.</li>
+  </ul>
+</details>
