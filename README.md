@@ -1,6 +1,6 @@
 <!-- Banner or animated GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2D42,100:8D99AE&height=300&section=header&text=Rukundo%20Bahati&fontSize=72&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2D42,100:8D99AE&height=300&section=header&text=Rukundo%20Bahati&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </p>
 
 <!-- Contact Buttons -->
